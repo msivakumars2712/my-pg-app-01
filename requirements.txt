@@ -1,0 +1,9 @@
+flask
+flask-smorest
+flask-sqlalchemy
+sqlalchemy
+psycopg2
+gunicorn
+flask-migrate
+passlib
+python-dotenv
